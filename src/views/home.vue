@@ -106,12 +106,10 @@
 
 <script setup lang="ts">
 import { ref, computed } from "vue"
-import { useRouter, useRoute } from "vue-router"
 import { useWindowSize } from "@vueuse/core"
 const email = ref<string>("")
 const confirm = ref<boolean>(false)
 const errorMsg = ref<string>("")
-const router = useRouter()
 const { width } = useWindowSize()
 
 const imgResponsive = computed(() => {
