@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: ()
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://vercel.com/mirare23s-projects/news-letter/2PX13mWHZMhweyJfVWtyRdBgiG9T)
 
 ## My process
 
